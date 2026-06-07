@@ -1,3 +1,5 @@
+//works only with esp32-s3 wala model
+
 #include <Adafruit_NeoPixel.h>
 // Define the pins for the LEDs
 #define LED_TX_PIN 43
